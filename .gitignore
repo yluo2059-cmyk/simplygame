@@ -1,0 +1,24 @@
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# IDE 或编辑器配置文件
+.vscode/
+.idea/
+*.suo
+*.user
+
+# 项目依赖和编译输出
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 环境变量和敏感信息
+.env
+.env.local
